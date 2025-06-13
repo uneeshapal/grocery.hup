@@ -1,3 +1,3 @@
 # grocery.hup
 this is my first repository
-author - uneesha
+author - uneesha pal
